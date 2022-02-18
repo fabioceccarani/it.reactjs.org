@@ -362,7 +362,7 @@ this.setState((state, props) => ({
 }));
 ```
 
-Qui abbiamo utilizzato una [arrow function](https://developer.mozilla.org/it/docs/Web/JavaScript/Reference/Functions_and_function_scope/Arrow_functions), ma puoi utilizzare anche una funzione tradizionale:
+Qui abbiamo utilizzato una [arrow function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions), ma puoi utilizzare anche una funzione tradizionale:
 
 ```js
 // Giusto
